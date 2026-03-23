@@ -15,29 +15,29 @@ The current project focuses on six related questions:
 5. What entity relationships can be documented from purchaser lists, SOS records, and land records?
 6. What claims can be supported conservatively in a public-facing brief?
 
-The repository is designed to support both analysis and external scrutiny. Derived claims should be traceable back to source files and to the methodology in [docs/methodology.md](/Users/richard/Documents/projects/fayette-tax-lien-watch/docs/methodology.md).
+The repository is designed to support both analysis and external scrutiny. Derived claims should be traceable back to source files and to the methodology in [docs/methodology.md](docs/methodology.md).
 
 ## Current Outputs
 
 Primary public-facing deliverables:
 
-- [outputs/reports/council_brief.md](/Users/richard/Documents/projects/fayette-tax-lien-watch/outputs/reports/council_brief.md): council-oriented research brief.
-- [docs/methodology.md](/Users/richard/Documents/projects/fayette-tax-lien-watch/docs/methodology.md): methods, validation, and limitations.
-- [outputs/tables/portfolio_summary.md](/Users/richard/Documents/projects/fayette-tax-lien-watch/outputs/tables/portfolio_summary.md): reconstructed portfolio summary.
-- [outputs/tables/spatial_summary.md](/Users/richard/Documents/projects/fayette-tax-lien-watch/outputs/tables/spatial_summary.md): district and neighborhood rollups.
-- [outputs/maps/portfolio_map_all_entities.png](/Users/richard/Documents/projects/fayette-tax-lien-watch/outputs/maps/portfolio_map_all_entities.png): all-entity map.
-- [outputs/maps/portfolio_by_district.png](/Users/richard/Documents/projects/fayette-tax-lien-watch/outputs/maps/portfolio_by_district.png): district map.
+- [outputs/reports/council_brief.md](outputs/reports/council_brief.md): council-oriented research brief.
+- [docs/methodology.md](docs/methodology.md): methods, validation, and limitations.
+- [outputs/tables/portfolio_summary.md](outputs/tables/portfolio_summary.md): reconstructed portfolio summary.
+- [outputs/tables/spatial_summary.md](outputs/tables/spatial_summary.md): district and neighborhood rollups.
+- [outputs/maps/portfolio_map_all_entities.png](outputs/maps/portfolio_map_all_entities.png): all-entity map.
+- [outputs/maps/portfolio_by_district.png](outputs/maps/portfolio_by_district.png): district map.
 
 Key analytical datasets:
 
-- [data/processed/entity_registry.csv](/Users/richard/Documents/projects/fayette-tax-lien-watch/data/processed/entity_registry.csv)
-- [data/processed/dor_purchasers_fayette.csv](/Users/richard/Documents/projects/fayette-tax-lien-watch/data/processed/dor_purchasers_fayette.csv)
-- [data/processed/ky_lien_holdings_portfolio.csv](/Users/richard/Documents/projects/fayette-tax-lien-watch/data/processed/ky_lien_holdings_portfolio.csv)
-- [data/processed/five_four_lean_portfolio.csv](/Users/richard/Documents/projects/fayette-tax-lien-watch/data/processed/five_four_lean_portfolio.csv)
-- [data/processed/purchase_area_lien_portfolio.csv](/Users/richard/Documents/projects/fayette-tax-lien-watch/data/processed/purchase_area_lien_portfolio.csv)
-- [data/processed/kings_right_portfolio.csv](/Users/richard/Documents/projects/fayette-tax-lien-watch/data/processed/kings_right_portfolio.csv)
-- [data/processed/portfolio_geocoded.csv](/Users/richard/Documents/projects/fayette-tax-lien-watch/data/processed/portfolio_geocoded.csv)
-- [data/processed/summary_stats.json](/Users/richard/Documents/projects/fayette-tax-lien-watch/data/processed/summary_stats.json)
+- [data/processed/entity_registry.csv](data/processed/entity_registry.csv)
+- [data/processed/dor_purchasers_fayette.csv](data/processed/dor_purchasers_fayette.csv)
+- [data/processed/ky_lien_holdings_portfolio.csv](data/processed/ky_lien_holdings_portfolio.csv)
+- [data/processed/five_four_lean_portfolio.csv](data/processed/five_four_lean_portfolio.csv)
+- [data/processed/purchase_area_lien_portfolio.csv](data/processed/purchase_area_lien_portfolio.csv)
+- [data/processed/kings_right_portfolio.csv](data/processed/kings_right_portfolio.csv)
+- [data/processed/portfolio_geocoded.csv](data/processed/portfolio_geocoded.csv)
+- [data/processed/summary_stats.json](data/processed/summary_stats.json)
 
 ## Repository Layout
 
@@ -78,9 +78,9 @@ Key analytical datasets:
 
 Recon notes and URL inventory are kept in:
 
-- [docs/source_recon_fayettedeeds.md](/Users/richard/Documents/projects/fayette-tax-lien-watch/docs/source_recon_fayettedeeds.md)
-- [docs/source_recon_dor.md](/Users/richard/Documents/projects/fayette-tax-lien-watch/docs/source_recon_dor.md)
-- [docs/source_recon_gis.md](/Users/richard/Documents/projects/fayette-tax-lien-watch/docs/source_recon_gis.md)
+- [docs/source_recon_fayettedeeds.md](docs/source_recon_fayettedeeds.md)
+- [docs/source_recon_dor.md](docs/source_recon_dor.md)
+- [docs/source_recon_gis.md](docs/source_recon_gis.md)
 
 ## Environment Setup
 
@@ -123,14 +123,14 @@ The repo does not currently use a single orchestration entrypoint or Makefile. S
 
 ## Script Responsibilities
 
-- [scripts/scrape_land_records.py](/Users/richard/Documents/projects/fayette-tax-lien-watch/scripts/scrape_land_records.py): collects clerk land-record filings for targeted entities / instrument types.
-- [scripts/scrape_delinquent_bills.py](/Users/richard/Documents/projects/fayette-tax-lien-watch/scripts/scrape_delinquent_bills.py): collects delinquent-tax bill records.
-- [scripts/analyze_portfolio.py](/Users/richard/Documents/projects/fayette-tax-lien-watch/scripts/analyze_portfolio.py): reconstructs event chains and produces summary outputs.
-- [scripts/geocode_portfolio.py](/Users/richard/Documents/projects/fayette-tax-lien-watch/scripts/geocode_portfolio.py): geocodes addresses and assigns council districts / neighborhoods.
+- [scripts/scrape_land_records.py](scripts/scrape_land_records.py): collects clerk land-record filings for targeted entities / instrument types.
+- [scripts/scrape_delinquent_bills.py](scripts/scrape_delinquent_bills.py): collects delinquent-tax bill records.
+- [scripts/analyze_portfolio.py](scripts/analyze_portfolio.py): reconstructs event chains and produces summary outputs.
+- [scripts/geocode_portfolio.py](scripts/geocode_portfolio.py): geocodes addresses and assigns council districts / neighborhoods.
 
 ## Data Model and Interpretation
 
-Canonical field definitions are in [docs/data_dictionary.md](/Users/richard/Documents/projects/fayette-tax-lien-watch/docs/data_dictionary.md).
+Canonical field definitions are in [docs/data_dictionary.md](docs/data_dictionary.md).
 
 Two points matter for interpretation:
 
@@ -154,7 +154,7 @@ Important limitations include:
 - incomplete DOR registration snapshots for some years
 - absence of court-docket outcomes in the current pipeline
 
-Read [docs/methodology.md](/Users/richard/Documents/projects/fayette-tax-lien-watch/docs/methodology.md) before relying on headline counts or legal characterizations.
+Read [docs/methodology.md](docs/methodology.md) before relying on headline counts or legal characterizations.
 
 ## Reproducibility Notes
 
@@ -164,7 +164,7 @@ Read [docs/methodology.md](/Users/richard/Documents/projects/fayette-tax-lien-wa
 
 ## Open Records and Follow-Up Work
 
-Open-records request drafts are in [docs/open_records_requests.md](/Users/richard/Documents/projects/fayette-tax-lien-watch/docs/open_records_requests.md).
+Open-records request drafts are in [docs/open_records_requests.md](docs/open_records_requests.md).
 
 High-value next steps include:
 
@@ -175,4 +175,4 @@ High-value next steps include:
 
 ## License
 
-This repository is licensed under the MIT License. See [LICENSE](/Users/richard/Documents/projects/fayette-tax-lien-watch/LICENSE).
+This repository is licensed under the MIT License. See [LICENSE](LICENSE).
