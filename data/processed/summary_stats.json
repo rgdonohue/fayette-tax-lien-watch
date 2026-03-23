@@ -1,0 +1,188 @@
+{
+  "as_of": "2026-03-22",
+  "ky_lien_holdings": {
+    "total_properties": 146,
+    "active": 5,
+    "released": 131,
+    "reassigned": 10,
+    "years_active": [
+      "2010",
+      "2011",
+      "2012",
+      "2013",
+      "2014",
+      "2017",
+      "2019",
+      "2020",
+      "2021",
+      "2022"
+    ],
+    "total_cert_instruments": 176,
+    "total_active_certs": 7,
+    "total_released_certs": 159,
+    "total_reassigned_certs": 10
+  },
+  "delinquent_bill_landscape": {
+    "total_bills": 6317,
+    "bills_with_amounts": 6317,
+    "face_value_median": 28.87,
+    "face_value_mean": 310.8609893936996,
+    "face_value_min": 0.0,
+    "face_value_max": 133236.0,
+    "under_50": 4115,
+    "under_100": 4721,
+    "under_500": 5648,
+    "under_50_pct": 65.1,
+    "under_100_pct": 74.7,
+    "total_face_value": 1963708.87,
+    "total_amount_due": 4479048.72,
+    "median_multiplier": 3.0,
+    "over_3x": 3171,
+    "over_5x": 1322,
+    "over_10x": 469,
+    "by_year": {
+      "2016": 355,
+      "2017": 399,
+      "2018": 415,
+      "2019": 528,
+      "2020": 450,
+      "2021": 392,
+      "2022": 999,
+      "2023": 2166,
+      "2024": 613
+    }
+  },
+  "land_records_total": 926,
+  "entity_activity": [
+    {
+      "entity": "KINGS RIGHT LLC",
+      "certs_purchased": 181,
+      "certs_transferred_out": 179
+    },
+    {
+      "entity": "KY LIEN HOLDINGS LLC",
+      "certs_purchased": 176,
+      "certs_transferred_out": 169
+    },
+    {
+      "entity": "CARDINAL LIEN SERV LLC",
+      "certs_purchased": 54,
+      "certs_transferred_out": 51
+    },
+    {
+      "entity": "FIVE FOUR LEAN LLC",
+      "certs_purchased": 41,
+      "certs_transferred_out": 24
+    },
+    {
+      "entity": "TAX LIEN PTNR LLC",
+      "certs_purchased": 17,
+      "certs_transferred_out": 15
+    },
+    {
+      "entity": "PURCHASE AREA LIEN HOLDINGS LLC",
+      "certs_purchased": 16,
+      "certs_transferred_out": 13
+    },
+    {
+      "entity": "HBC4 LLC",
+      "certs_purchased": 10,
+      "certs_transferred_out": 10
+    },
+    {
+      "entity": "STEWART COMPANIES LLC",
+      "certs_purchased": 10,
+      "certs_transferred_out": 7
+    },
+    {
+      "entity": "ROLAND PROP LLC",
+      "certs_purchased": 6,
+      "certs_transferred_out": 7
+    },
+    {
+      "entity": "HAMBURG BUSINESS CTR",
+      "certs_purchased": 7,
+      "certs_transferred_out": 6
+    },
+    {
+      "entity": "HORINE CLARENCE CHORINE J A",
+      "certs_purchased": 6,
+      "certs_transferred_out": 6
+    },
+    {
+      "entity": "REALTY UNLIMITED INC",
+      "certs_purchased": 5,
+      "certs_transferred_out": 6
+    },
+    {
+      "entity": "PINECREST DEV COPINECREST DEV CO LLC",
+      "certs_purchased": 5,
+      "certs_transferred_out": 5
+    },
+    {
+      "entity": "PAM INSTITUTIONAL TAX LIEN FUND LLC",
+      "certs_purchased": 9,
+      "certs_transferred_out": 0
+    },
+    {
+      "entity": "GREEN ANNA R",
+      "certs_purchased": 4,
+      "certs_transferred_out": 4
+    },
+    {
+      "entity": "LEINDECKER DIANE J",
+      "certs_purchased": 4,
+      "certs_transferred_out": 4
+    },
+    {
+      "entity": "PECK FREDDIE D",
+      "certs_purchased": 2,
+      "certs_transferred_out": 4
+    },
+    {
+      "entity": "WALLING JAMES EWALLING LINDA",
+      "certs_purchased": 3,
+      "certs_transferred_out": 3
+    },
+    {
+      "entity": "INGRAM JOSEPHINE S",
+      "certs_purchased": 3,
+      "certs_transferred_out": 3
+    },
+    {
+      "entity": "IVYBRIDGE HOLDINGS LLC",
+      "certs_purchased": 3,
+      "certs_transferred_out": 3
+    },
+    {
+      "entity": "SIZEMORE C DSIZEMORE RUSSELL G",
+      "certs_purchased": 3,
+      "certs_transferred_out": 3
+    },
+    {
+      "entity": "LOPEZ DANIEL R",
+      "certs_purchased": 3,
+      "certs_transferred_out": 3
+    },
+    {
+      "entity": "EMERSON DORIS HOWARD",
+      "certs_purchased": 3,
+      "certs_transferred_out": 3
+    },
+    {
+      "entity": "PACIFIC URBAN PROPPACIFIC URBAN PROP LLC",
+      "certs_purchased": 3,
+      "certs_transferred_out": 2
+    },
+    {
+      "entity": "BOWLES BILLY JASON",
+      "certs_purchased": 0,
+      "certs_transferred_out": 4
+    },
+    {
+      "entity": "BOWLES BILLY JASONDENNIS MICHELLE ROXANNE",
+      "certs_purchased": 3,
+      "certs_transferred_out": 0
+    }
+  ]
+}

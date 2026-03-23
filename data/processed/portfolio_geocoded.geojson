@@ -1,0 +1,3764 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.48267740603173,
+          37.978741317276445
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "3575 CAULDER RD",
+        "current_status": "released",
+        "first_assignment_date": "2022-07-27",
+        "years_active": "2022",
+        "council_district": "8",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "3575 CAULDER RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.45493605351825,
+          38.08632234106699
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "601 KENT DR",
+        "current_status": "released",
+        "first_assignment_date": "2021-08-03",
+        "years_active": "2021, 2022",
+        "council_district": "12",
+        "neighborhood": "Joyland Neighborhood Association",
+        "geocode_score": 100.0,
+        "matched_address": "601 KENT DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.48429633389821,
+          38.07925196181614
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "650 HOLLOW CREEK RD",
+        "current_status": "released",
+        "first_assignment_date": "2021-08-03",
+        "years_active": "2021",
+        "council_district": "1",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "650 HOLLOW CREEK RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6267404777985,
+          38.04119585621943
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "5023 OLD VERSAILLES RD",
+        "current_status": "released",
+        "first_assignment_date": "2020-08-28",
+        "years_active": "2020, 2021",
+        "council_district": "12",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "5023 OLD VERSAILLES RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.39027193543176,
+          38.01594381257534
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "3333 HIBERNIA PASS",
+        "current_status": "released",
+        "first_assignment_date": "2020-08-28",
+        "years_active": "2020, 2021",
+        "council_district": "12",
+        "neighborhood": "Blackford Oaks Place Owner's Asssociation",
+        "geocode_score": 100.0,
+        "matched_address": "3333 HIBERNIA PASS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.48705892042918,
+          38.04763406458072
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "264 E FOURTH ST",
+        "current_status": "active",
+        "first_assignment_date": "2021-08-03",
+        "years_active": "2021",
+        "council_district": "1",
+        "neighborhood": "William Wells Brown Neighborhood Assoc",
+        "geocode_score": 100.0,
+        "matched_address": "264 E FOURTH ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.50372130227262,
+          37.99254364579736
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "764 MALABU DR",
+        "current_status": "released",
+        "first_assignment_date": "2021-08-03",
+        "years_active": "2021",
+        "council_district": "3",
+        "neighborhood": "Lansdowne Nghd Assoc",
+        "geocode_score": 100.0,
+        "matched_address": "764 MALABU DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.45116981410226,
+          38.074559819000356
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "168 BEVERLY AVE",
+        "current_status": "released",
+        "first_assignment_date": "2020-08-28",
+        "years_active": "2020, 2021",
+        "council_district": "6",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "168 BEVERLY AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.48267740603173,
+          37.978741317276445
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "3575 CAULDER RD",
+        "current_status": "released",
+        "first_assignment_date": "2021-08-03",
+        "years_active": "2021",
+        "council_district": "8",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "3575 CAULDER RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.57552943313209,
+          37.99336633133567
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "1980 OLD HIGBEE MILL RD",
+        "current_status": "active",
+        "first_assignment_date": "2019-07-31",
+        "years_active": "2019, 2020, 2021",
+        "council_district": "9",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "1980 OLD HIGBEE MILL RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.49729642381654,
+          38.04864045013701
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "145 MARKET ST",
+        "current_status": "released",
+        "first_assignment_date": "2021-08-03",
+        "years_active": "2021",
+        "council_district": "3",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "145 MARKET ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.47185687451663,
+          38.04082354868906
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "921 DAYTON AVE",
+        "current_status": "released",
+        "first_assignment_date": "2021-08-03",
+        "years_active": "2021",
+        "council_district": "5",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "921 DAYTON AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.48039474522656,
+          38.057830315014264
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "820 N LIMESTONE",
+        "current_status": "released",
+        "first_assignment_date": "2020-08-28",
+        "years_active": "2020",
+        "council_district": "1",
+        "neighborhood": "Castlewood Nghd Assoc",
+        "geocode_score": 100.0,
+        "matched_address": "820 N LIMESTONE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.45366158378042,
+          37.98816564538975
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "3165 DALE HOLLOW DR",
+        "current_status": "released",
+        "first_assignment_date": "2019-07-31",
+        "years_active": "2019, 2020",
+        "council_district": "7",
+        "neighborhood": "East Lake Nghd Assoc",
+        "geocode_score": 100.0,
+        "matched_address": "3165 DALE HOLLOW DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.48267740603173,
+          37.978741317276445
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "3575 CAULDER RD",
+        "current_status": "released",
+        "first_assignment_date": "2020-08-28",
+        "years_active": "2020",
+        "council_district": "8",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "3575 CAULDER RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.52322718759349,
+          38.06286332827185
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "130 LISLE INDUSTRIAL AVE",
+        "current_status": "released",
+        "first_assignment_date": "2019-07-31",
+        "years_active": "2019, 2020",
+        "council_district": "11",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "130 LISLE INDUSTRIAL AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.51317897936163,
+          38.015357011129936
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "116 JOHNSTON BLVD",
+        "current_status": "released",
+        "first_assignment_date": "2020-08-28",
+        "years_active": "2020",
+        "council_district": "3",
+        "neighborhood": "Southern Heights Nghd",
+        "geocode_score": 100.0,
+        "matched_address": "116 JOHNSTON BLVD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.62887175547964,
+          38.04038469853404
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "5125 OLD VERSAILLES RD",
+        "current_status": "released",
+        "first_assignment_date": "2020-08-28",
+        "years_active": "2020",
+        "council_district": "12",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "5125 OLD VERSAILLES RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.55119764592544,
+          37.9776867005563
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "730 MILLPOND RD",
+        "current_status": "released",
+        "first_assignment_date": "2019-07-31",
+        "years_active": "2019",
+        "council_district": "9",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "730 MILLPOND RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.42502850981776,
+          38.02982887314602
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "2409 PASCOLI PL",
+        "current_status": "released",
+        "first_assignment_date": "2019-07-31",
+        "years_active": "2019",
+        "council_district": "6",
+        "neighborhood": "Liberty Area Nghd Assoc",
+        "geocode_score": 100.0,
+        "matched_address": "2409 PASCOLI PL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.34940274223776,
+          37.88758574070359
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "8647 BEACH RD",
+        "current_status": "released",
+        "first_assignment_date": "2019-07-31",
+        "years_active": "2019",
+        "council_district": "12",
+        "neighborhood": "Clays Ferry Nghd Assoc",
+        "geocode_score": 100.0,
+        "matched_address": "8647 BEACH RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.44045976614308,
+          38.02388454480019
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "2364 LIBERTY RD",
+        "current_status": "released",
+        "first_assignment_date": "2019-07-31",
+        "years_active": "2019",
+        "council_district": "6",
+        "neighborhood": "Liberty Area Nghd Assoc",
+        "geocode_score": 100.0,
+        "matched_address": "2364 LIBERTY RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.51478629072588,
+          37.98282507343585
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "329 STONEYBROOK DR",
+        "current_status": "released",
+        "first_assignment_date": "2017-07-26",
+        "years_active": "2017",
+        "council_district": "4",
+        "neighborhood": "Stoneybrook Nghd",
+        "geocode_score": 100.0,
+        "matched_address": "329 STONEYBROOK DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5182021134667,
+          38.04677323475359
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "780 BENNETT AVE",
+        "current_status": "released",
+        "first_assignment_date": "2017-07-26",
+        "years_active": "2017",
+        "council_district": "11",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "780 BENNETT AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.37045485728726,
+          38.14753456355795
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "209 HARP INNIS RD",
+        "current_status": "released",
+        "first_assignment_date": "2017-07-26",
+        "years_active": "2017",
+        "council_district": "12",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "209 HARP INNIS RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.48181377010948,
+          38.043499242090455
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "323 NELSON AVE",
+        "current_status": "released",
+        "first_assignment_date": "2017-07-26",
+        "years_active": "2017",
+        "council_district": "1",
+        "neighborhood": "William Wells Brown Neighborhood Assoc",
+        "geocode_score": 100.0,
+        "matched_address": "323 NELSON AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.50193176246115,
+          38.075673245732
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "1021 W NEW CIRCLE RD",
+        "current_status": "active",
+        "first_assignment_date": "2017-07-26",
+        "years_active": "2017",
+        "council_district": "1",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "1021 W NEW CIRCLE RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.47292855462736,
+          38.03473509900241
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "301 PRESTON AVE",
+        "current_status": "released",
+        "first_assignment_date": "2017-07-26",
+        "years_active": "2017",
+        "council_district": "5",
+        "neighborhood": "Kenwick Nghd Assoc",
+        "geocode_score": 100.0,
+        "matched_address": "301 PRESTON AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.44489795929447,
+          37.9744312791923
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "915 DELONG RD",
+        "current_status": "released",
+        "first_assignment_date": "2017-07-26",
+        "years_active": "2017",
+        "council_district": "7",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "915 DELONG RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.48679379124077,
+          38.04691020475455
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "359 OHIO ST",
+        "current_status": "released",
+        "first_assignment_date": "2017-07-26",
+        "years_active": "2017",
+        "council_district": "1",
+        "neighborhood": "William Wells Brown Neighborhood Assoc",
+        "geocode_score": 100.0,
+        "matched_address": "359 OHIO ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.48745541561985,
+          37.96368524259155
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "4533 HARTLAND PKY",
+        "current_status": "released",
+        "first_assignment_date": "2017-07-26",
+        "years_active": "2017",
+        "council_district": "8",
+        "neighborhood": "",
+        "geocode_score": 99.4,
+        "matched_address": "4533 HARTLAND PKWY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.55465303757391,
+          37.9822929665518
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "888 OVERVIEW DR",
+        "current_status": "released",
+        "first_assignment_date": "2017-07-26",
+        "years_active": "2017",
+        "council_district": "9",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "888 OVERVIEW DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.50405898610047,
+          38.08255120676288
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "1114 REDWOOD DR",
+        "current_status": "released",
+        "first_assignment_date": "2013-07-22",
+        "years_active": "2013, 2014",
+        "council_district": "1",
+        "neighborhood": "Oakwood Nghd Assoc",
+        "geocode_score": 100.0,
+        "matched_address": "1114 REDWOOD DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.54262452749671,
+          38.0937491231096
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "364 MASTERSON STATION DR",
+        "current_status": "released",
+        "first_assignment_date": "2013-07-22",
+        "years_active": "2013, 2014",
+        "council_district": "2",
+        "neighborhood": "Masterson Station Nghd Assoc",
+        "geocode_score": 100.0,
+        "matched_address": "364 MASTERSON STATION DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.48289302169705,
+          38.05619347555427
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "746 N LIMESTONE",
+        "current_status": "released",
+        "first_assignment_date": "2014-07-30",
+        "years_active": "2014",
+        "council_district": "1",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "746 N LIMESTONE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.57081514217465,
+          37.98838579678921
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "4204 CANTERBURY GREEN WAY",
+        "current_status": "released",
+        "first_assignment_date": "2012-07-30",
+        "years_active": "2012, 2013, 2014",
+        "council_district": "9",
+        "neighborhood": "Wyndham Downs Nghd",
+        "geocode_score": 100.0,
+        "matched_address": "4204 CANTERBURY GREEN WAY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4958319086608,
+          38.047586005995484
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "108 CHURCH ST",
+        "current_status": "released",
+        "first_assignment_date": "2014-07-30",
+        "years_active": "2014",
+        "council_district": "3",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "108 CHURCH ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.54641878673176,
+          38.01121486498856
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "648 NAKOMI DR",
+        "current_status": "released",
+        "first_assignment_date": "2014-07-30",
+        "years_active": "2014",
+        "council_district": "10",
+        "neighborhood": "Pasadena Nghd Assoc.",
+        "geocode_score": 100.0,
+        "matched_address": "648 NAKOMI DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.48825947991092,
+          38.055357176588686
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "228 W SIXTH ST",
+        "current_status": "released",
+        "first_assignment_date": "2013-07-22",
+        "years_active": "2013, 2014",
+        "council_district": "1",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "228 W SIXTH ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.48622381938337,
+          38.0301664774007
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "1004 SLASHES RD",
+        "current_status": "released",
+        "first_assignment_date": "2014-07-30",
+        "years_active": "2014",
+        "council_district": "5",
+        "neighborhood": "Ashland Nghd Assoc.",
+        "geocode_score": 100.0,
+        "matched_address": "1004 SLASHES RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4712050994355,
+          38.05934123647121
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "310 BLUE GRASS AVE",
+        "current_status": "released",
+        "first_assignment_date": "2013-07-22",
+        "years_active": "2013",
+        "council_district": "1",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "310 BLUE GRASS AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.50195205815548,
+          38.05976032852738
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "710 CHARLES AVE",
+        "current_status": "released",
+        "first_assignment_date": "2013-07-22",
+        "years_active": "2013",
+        "council_district": "2",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "710 CHARLES AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.48004365489123,
+          38.05268126744441
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "710 LANCASTER AVE",
+        "current_status": "released",
+        "first_assignment_date": "2013-07-22",
+        "years_active": "2013",
+        "council_district": "1",
+        "neighborhood": "East End Community Development Corporation",
+        "geocode_score": 100.0,
+        "matched_address": "710 LANCASTER AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.49862753636666,
+          37.96558940933658
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "4305 CHAS CIR",
+        "current_status": "reassigned",
+        "first_assignment_date": "2013-07-22",
+        "years_active": "2013",
+        "council_district": "12",
+        "neighborhood": "Pinnacle Homeowners Assoc Inc",
+        "geocode_score": 100.0,
+        "matched_address": "4305 CHAS CIR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.48289302169705,
+          38.05619347555427
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "746 N LIMESTONE",
+        "current_status": "released",
+        "first_assignment_date": "2013-07-22",
+        "years_active": "2013",
+        "council_district": "1",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "746 N LIMESTONE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.44983664906286,
+          38.06596068363958
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "381 HERMITAGE DR",
+        "current_status": "reassigned",
+        "first_assignment_date": "2013-07-22",
+        "years_active": "2013",
+        "council_district": "6",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "381 HERMITAGE DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.48762569474113,
+          38.05456586115679
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "567 N UPPER ST",
+        "current_status": "released",
+        "first_assignment_date": "2013-07-22",
+        "years_active": "2013",
+        "council_district": "1",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "567 N UPPER ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.48617502199352,
+          38.05821748834978
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "724 N BROADWAY",
+        "current_status": "released",
+        "first_assignment_date": "2013-07-22",
+        "years_active": "2013",
+        "council_district": "1",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "724 N BROADWAY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.46280991191007,
+          38.05639251232538
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "531 EMERSON DR",
+        "current_status": "reassigned",
+        "first_assignment_date": "2013-07-22",
+        "years_active": "2013",
+        "council_district": "1",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "531 EMERSON DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.47844007038262,
+          38.05493424768629
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "201 E LOUDON AVE",
+        "current_status": "released",
+        "first_assignment_date": "2013-07-22",
+        "years_active": "2013",
+        "council_district": "1",
+        "neighborhood": "Castlewood Nghd Assoc",
+        "geocode_score": 100.0,
+        "matched_address": "201 E LOUDON AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.48177572125998,
+          38.051321169407714
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "642 ELM TREE LN",
+        "current_status": "released",
+        "first_assignment_date": "2013-07-22",
+        "years_active": "2013",
+        "council_district": "1",
+        "neighborhood": "William Wells Brown Neighborhood Assoc",
+        "geocode_score": 100.0,
+        "matched_address": "642 ELM TREE LN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.55315409159134,
+          38.0269025841753
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "2140 PALMS DR",
+        "current_status": "reassigned",
+        "first_assignment_date": "2013-07-22",
+        "years_active": "2013",
+        "council_district": "10",
+        "neighborhood": "Garden Springs Nghd Assoc",
+        "geocode_score": 100.0,
+        "matched_address": "2140 PALMS DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.57006515534896,
+          37.997409356818906
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "4185 FORSYTHE DR",
+        "current_status": "released",
+        "first_assignment_date": "2011-07-28",
+        "years_active": "2011, 2012",
+        "council_district": "9",
+        "neighborhood": "Plantation Nghd Assoc",
+        "geocode_score": 100.0,
+        "matched_address": "4185 FORSYTHE DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.37626604577619,
+          37.96759947395806
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "391 UNITED CT",
+        "current_status": "released",
+        "first_assignment_date": "2012-07-30",
+        "years_active": "2012",
+        "council_district": "12",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "391 UNITED CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4838876836254,
+          38.05378859650226
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "146 ALABAMA AVE",
+        "current_status": "released",
+        "first_assignment_date": "2010-07-20",
+        "years_active": "2010, 2011, 2012",
+        "council_district": "1",
+        "neighborhood": "East End Community Development Corporation",
+        "geocode_score": 100.0,
+        "matched_address": "146 ALABAMA AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.41602741957517,
+          37.91884200355329
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "2536 JACKS CREEK PIKE",
+        "current_status": "released",
+        "first_assignment_date": "2011-07-28",
+        "years_active": "2011, 2012",
+        "council_district": "12",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "2536 JACKS CREEK PIKE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.46375063739288,
+          38.05290055732154
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "1022 MEADOW LN",
+        "current_status": "released",
+        "first_assignment_date": "2012-07-30",
+        "years_active": "2012",
+        "council_district": "1",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "1022 MEADOW LN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.44686329441348,
+          38.012040850108136
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "947 MCCLANAHAN LN",
+        "current_status": "released",
+        "first_assignment_date": "2012-07-30",
+        "years_active": "2012",
+        "council_district": "7",
+        "neighborhood": "Woodhill Neighborhood Organization",
+        "geocode_score": 100.0,
+        "matched_address": "947 MCCLANAHAN LN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4467017629761,
+          38.012149764987555
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "953 MCCLANAHAN LN",
+        "current_status": "released",
+        "first_assignment_date": "2012-07-30",
+        "years_active": "2012",
+        "council_district": "7",
+        "neighborhood": "Woodhill Neighborhood Organization",
+        "geocode_score": 100.0,
+        "matched_address": "953 MCCLANAHAN LN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40455075190017,
+          37.99637888139077
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "3801 MUIRFIELD PL",
+        "current_status": "released",
+        "first_assignment_date": "2012-07-30",
+        "years_active": "2012",
+        "council_district": "7",
+        "neighborhood": "Walnut Ridge HOA",
+        "geocode_score": 100.0,
+        "matched_address": "3801 MUIRFIELD PL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4703574927861,
+          38.05591356558155
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "427 CARLISLE AVE",
+        "current_status": "released",
+        "first_assignment_date": "2012-07-30",
+        "years_active": "2012",
+        "council_district": "1",
+        "neighborhood": "Castlewood Nghd Assoc",
+        "geocode_score": 100.0,
+        "matched_address": "427 CARLISLE AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.48069365869848,
+          38.02312915278219
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "320 DUDLEY RD",
+        "current_status": "released",
+        "first_assignment_date": "2012-07-30",
+        "years_active": "2012",
+        "council_district": "5",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "320 DUDLEY RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.62746410072522,
+          38.04101391232509
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "5041 OLD VERSAILLES RD",
+        "current_status": "released",
+        "first_assignment_date": "2011-07-28",
+        "years_active": "2011",
+        "council_district": "12",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "5041 OLD VERSAILLES RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.55037696688304,
+          38.02966959896173
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "203 ALEXANDRIA DR",
+        "current_status": "released",
+        "first_assignment_date": "2011-07-28",
+        "years_active": "2011",
+        "council_district": "10",
+        "neighborhood": "Garden Springs Nghd Assoc",
+        "geocode_score": 99.7,
+        "matched_address": "2033 ALEXANDRIA DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.49415166369326,
+          38.03462102295479
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "249 KENTUCKY AVE",
+        "current_status": "released",
+        "first_assignment_date": "2011-07-28",
+        "years_active": "2011",
+        "council_district": "3",
+        "neighborhood": "Aylesford Place Neighborhood Association",
+        "geocode_score": 100.0,
+        "matched_address": "249 KENTUCKY AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.42292255428619,
+          38.00262734869578
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "465 DABNEY DR",
+        "current_status": "released",
+        "first_assignment_date": "2011-07-28",
+        "years_active": "2011",
+        "council_district": "7",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "465 DABNEY DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.56080865169106,
+          38.09194588346122
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "3092 LEESTOWN RD",
+        "current_status": "released",
+        "first_assignment_date": "2010-07-20",
+        "years_active": "2010, 2011",
+        "council_district": "2",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "3092 LEESTOWN RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.54267078896167,
+          38.02980933580635
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "2008 CAMPERDOWN CT",
+        "current_status": "released",
+        "first_assignment_date": "2011-07-28",
+        "years_active": "2011",
+        "council_district": "10",
+        "neighborhood": "Garden Springs Nghd Assoc",
+        "geocode_score": 100.0,
+        "matched_address": "2008 CAMPERDOWN CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.48947820248344,
+          38.048673580315764
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "206 CAMPSIE PL",
+        "current_status": "released",
+        "first_assignment_date": "2011-07-28",
+        "years_active": "2011",
+        "council_district": "1",
+        "neighborhood": "East End Community Development Corporation",
+        "geocode_score": 100.0,
+        "matched_address": "206 CAMPSIE PL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.54744892740737,
+          38.058272845846034
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "2164 DEAUVILLE DR",
+        "current_status": "released",
+        "first_assignment_date": "2011-07-28",
+        "years_active": "2011",
+        "council_district": "11",
+        "neighborhood": "Cardinal Valley Nghd Assoc",
+        "geocode_score": 100.0,
+        "matched_address": "2164 DEAUVILLE DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.46439148554386,
+          38.08218717027134
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "1874 LINTON RD",
+        "current_status": "released",
+        "first_assignment_date": "2011-07-28",
+        "years_active": "2011",
+        "council_district": "1",
+        "neighborhood": "Radcliff/Marlboro Nghd Assoc",
+        "geocode_score": 100.0,
+        "matched_address": "1874 LINTON RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.57288701557849,
+          37.99914760590643
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "3828 GLADMAN WAY",
+        "current_status": "released",
+        "first_assignment_date": "2011-07-28",
+        "years_active": "2011",
+        "council_district": "9",
+        "neighborhood": "Plantation Nghd Assoc",
+        "geocode_score": 100.0,
+        "matched_address": "3828 GLADMAN WAY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40220641493569,
+          38.15114418350038
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "1545 HARP INNIS RD",
+        "current_status": "released",
+        "first_assignment_date": "2011-07-28",
+        "years_active": "2011",
+        "council_district": "12",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "1545 HARP INNIS RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.50180970646689,
+          38.055165680578874
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "565 W SECOND ST",
+        "current_status": "released",
+        "first_assignment_date": "2010-07-20",
+        "years_active": "2010, 2011",
+        "council_district": "11",
+        "neighborhood": "Northside Nghd Assoc",
+        "geocode_score": 100.0,
+        "matched_address": "565 W SECOND ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.51806540843492,
+          38.060794607975346
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "107 WILTON AVE",
+        "current_status": "released",
+        "first_assignment_date": "2011-07-28",
+        "years_active": "2011",
+        "council_district": "11",
+        "neighborhood": "Melrose-Oak Park",
+        "geocode_score": 100.0,
+        "matched_address": "107 WILTON AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.54364538590956,
+          37.98585980119903
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "466 POTOMAC DR",
+        "current_status": "released",
+        "first_assignment_date": "2011-07-28",
+        "years_active": "2011",
+        "council_district": "9",
+        "neighborhood": "Monticello Nghd Assoc",
+        "geocode_score": 100.0,
+        "matched_address": "466 POTOMAC DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.47650611785457,
+          38.03646791026236
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "931 AURORA AVE",
+        "current_status": "reassigned",
+        "first_assignment_date": "2011-07-28",
+        "years_active": "2011",
+        "council_district": "3",
+        "neighborhood": "Kenwick Nghd Assoc",
+        "geocode_score": 100.0,
+        "matched_address": "931 AURORA AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.55257630572392,
+          37.97881316695446
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "3857 BOSTON RD",
+        "current_status": "released",
+        "first_assignment_date": "2010-07-20",
+        "years_active": "2010, 2011",
+        "council_district": "9",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "3857 BOSTON RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.55248427119106,
+          37.97890745564768
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "3853 BOSTON RD",
+        "current_status": "released",
+        "first_assignment_date": "2010-07-20",
+        "years_active": "2010, 2011",
+        "council_district": "9",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "3853 BOSTON RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.50747964814836,
+          37.973997856144955
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "3811 CAMELOT DR",
+        "current_status": "reassigned",
+        "first_assignment_date": "2010-07-20",
+        "years_active": "2010, 2011",
+        "council_district": "4",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "3811 CAMELOT DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.50754375954,
+          37.97400929817095
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "3809 CAMELOT DR",
+        "current_status": "reassigned",
+        "first_assignment_date": "2010-07-20",
+        "years_active": "2010, 2011",
+        "council_district": "4",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "3809 CAMELOT DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.58492682027105,
+          37.984790993642974
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "4800 MANDARIN PL",
+        "current_status": "released",
+        "first_assignment_date": "2011-07-28",
+        "years_active": "2011",
+        "council_district": "9",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "4800 MANDARIN PL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.50298391827434,
+          38.01190750439559
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "1865 BELLEFONTE DR",
+        "current_status": "released",
+        "first_assignment_date": "2011-07-28",
+        "years_active": "2011",
+        "council_district": "3",
+        "neighborhood": "Shadeland Community Association, Inc.",
+        "geocode_score": 100.0,
+        "matched_address": "1865 BELLEFONTE DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.50150489689455,
+          37.97750400244606
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "3667 WALDEN DR",
+        "current_status": "reassigned",
+        "first_assignment_date": "2010-07-20",
+        "years_active": "2010, 2011",
+        "council_district": "4",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "3667 WALDEN DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.44707626547397,
+          38.0119007828835
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "939 MCCLANAHAN LN",
+        "current_status": "released",
+        "first_assignment_date": "2010-07-20",
+        "years_active": "2010, 2011",
+        "council_district": "7",
+        "neighborhood": "Woodhill Neighborhood Organization",
+        "geocode_score": 100.0,
+        "matched_address": "939 MCCLANAHAN LN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.54896156529934,
+          38.03965007776172
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "1041 CROSS KEYS RD",
+        "current_status": "released",
+        "first_assignment_date": "2011-07-28",
+        "years_active": "2011",
+        "council_district": "11",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "1041 CROSS KEYS RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.53053914933555,
+          38.066197393049855
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "240 TOWNE SQUARE PARK",
+        "current_status": "released",
+        "first_assignment_date": "2011-07-28",
+        "years_active": "2011",
+        "council_district": "11",
+        "neighborhood": "Townley Park HOA",
+        "geocode_score": 100.0,
+        "matched_address": "240 TOWNE SQUARE PARK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.48376973008234,
+          38.04787657837345
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "398 E FIFTH ST",
+        "current_status": "released",
+        "first_assignment_date": "2010-07-20",
+        "years_active": "2010",
+        "council_district": "1",
+        "neighborhood": "William Wells Brown Neighborhood Assoc",
+        "geocode_score": 100.0,
+        "matched_address": "398 E FIFTH ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4990279920789,
+          38.05569856011705
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "515 W THIRD ST",
+        "current_status": "released",
+        "first_assignment_date": "2010-07-20",
+        "years_active": "2010",
+        "council_district": "11",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "515 W THIRD ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.44838944814424,
+          38.04944822690696
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "1505 CANTRILL DR",
+        "current_status": "released",
+        "first_assignment_date": "2010-07-20",
+        "years_active": "2010",
+        "council_district": "6",
+        "neighborhood": "Eastland Pkwy Nghd Assoc",
+        "geocode_score": 100.0,
+        "matched_address": "1505 CANTRILL DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.47486146331782,
+          37.987782187615544
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "3382 PIMLICO PKY",
+        "current_status": "released",
+        "first_assignment_date": "2010-07-20",
+        "years_active": "2010",
+        "council_district": "8",
+        "neighborhood": "",
+        "geocode_score": 99.4,
+        "matched_address": "3382 PIMLICO PKWY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.44636660175783,
+          37.99455773561516
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "3357 OTTER CREEK DR",
+        "current_status": "released",
+        "first_assignment_date": "2010-07-20",
+        "years_active": "2010",
+        "council_district": "7",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "3357 OTTER CREEK DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.50543766942366,
+          38.06292463329018
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "930 CHARLES AVE",
+        "current_status": "released",
+        "first_assignment_date": "2010-07-20",
+        "years_active": "2010",
+        "council_district": "2",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "930 CHARLES AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.46557871749653,
+          38.05483510120827
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "1003 MARCELLUS DR",
+        "current_status": "released",
+        "first_assignment_date": "2010-07-20",
+        "years_active": "2010",
+        "council_district": "1",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "1003 MARCELLUS DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.50533561997966,
+          38.06840944323924
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "447 ROOSEVELT BLVD",
+        "current_status": "active",
+        "first_assignment_date": "2010-07-20",
+        "years_active": "2010",
+        "council_district": "2",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "447 ROOSEVELT BLVD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.45011714433726,
+          38.01483098516816
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "238 OSAGE CT",
+        "current_status": "released",
+        "first_assignment_date": "2010-07-20",
+        "years_active": "2010",
+        "council_district": "7",
+        "neighborhood": "Woodhill Neighborhood Organization",
+        "geocode_score": 100.0,
+        "matched_address": "238 OSAGE CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.47361500296137,
+          37.9790961933706
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "3581 BOLD BIDDER DR",
+        "current_status": "released",
+        "first_assignment_date": "2010-07-20",
+        "years_active": "2010",
+        "council_district": "8",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "3581 BOLD BIDDER DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.42426898151054,
+          38.000354149747984
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "3304 TYLER CT",
+        "current_status": "released",
+        "first_assignment_date": "2010-07-20",
+        "years_active": "2010",
+        "council_district": "7",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "3304 TYLER CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.44851229422432,
+          38.07142658446551
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "260 ELLIS PARK",
+        "current_status": "released",
+        "first_assignment_date": "2010-07-20",
+        "years_active": "2010",
+        "council_district": "6",
+        "neighborhood": "North Pointe Neighborhood Association",
+        "geocode_score": 100.0,
+        "matched_address": "260 ELLIS PARK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.44897333183617,
+          37.988304995901004
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "3208 HUNTERS POINT DR",
+        "current_status": "released",
+        "first_assignment_date": "2010-07-20",
+        "years_active": "2010",
+        "council_district": "7",
+        "neighborhood": "East Lake Nghd Assoc",
+        "geocode_score": 100.0,
+        "matched_address": "3208 HUNTERS POINT DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.33865624882156,
+          38.03023073873056
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "3239 KINGFISHER LN",
+        "current_status": "released",
+        "first_assignment_date": "2010-07-20",
+        "years_active": "2010",
+        "council_district": "12",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "3239 KINGFISHER LN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5256474606415,
+          38.04889283204103
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "103 CISCO RD",
+        "current_status": "released",
+        "first_assignment_date": "2010-07-20",
+        "years_active": "2010",
+        "council_district": "11",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "103 CISCO RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.52358940172174,
+          37.989844221263795
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "102 BRIGADOON PKY",
+        "current_status": "released",
+        "first_assignment_date": "2010-07-20",
+        "years_active": "2010",
+        "council_district": "4",
+        "neighborhood": "Brigadoon Neighborhood Association",
+        "geocode_score": 99.4,
+        "matched_address": "102 BRIGADOON PKWY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.514053757928,
+          38.0053227486707
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "2053 HEATHER WAY",
+        "current_status": "released",
+        "first_assignment_date": "2010-07-20",
+        "years_active": "2010",
+        "council_district": "3",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "2053 HEATHER WAY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4793758050341,
+          38.062860295261146
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "1204 N BROADWAY",
+        "current_status": "released",
+        "first_assignment_date": "2010-07-20",
+        "years_active": "2010",
+        "council_district": "1",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "1204 N BROADWAY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.51498060973218,
+          38.02757624526329
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "222 FOREST PARK RD",
+        "current_status": "released",
+        "first_assignment_date": "2010-07-20",
+        "years_active": "2010",
+        "council_district": "3",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "222 FOREST PARK RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.43802839957668,
+          37.8730568030188
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "8616 TATES CREEK RD",
+        "current_status": "released",
+        "first_assignment_date": "2010-07-20",
+        "years_active": "2010",
+        "council_district": "12",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "8616 TATES CREEK RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.51206002951436,
+          38.01636828358308
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "124 HILTONIA PARK",
+        "current_status": "released",
+        "first_assignment_date": "2010-07-20",
+        "years_active": "2010",
+        "council_district": "3",
+        "neighborhood": "Southern Heights Nghd",
+        "geocode_score": 100.0,
+        "matched_address": "124 HILTONIA PARK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.45896414558962,
+          38.00366424551896
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "392 PLAINVIEW RD",
+        "current_status": "released",
+        "first_assignment_date": "2010-07-20",
+        "years_active": "2010",
+        "council_district": "5",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "392 PLAINVIEW RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.44558828034269,
+          38.07250231797858
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "2233 PREAKNESS CT",
+        "current_status": "released",
+        "first_assignment_date": "2010-07-20",
+        "years_active": "2010",
+        "council_district": "6",
+        "neighborhood": "North Pointe Neighborhood Association",
+        "geocode_score": 100.0,
+        "matched_address": "2233 PREAKNESS CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.54440593336223,
+          38.08637891308787
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "261 DARENIA LN",
+        "current_status": "released",
+        "first_assignment_date": "2010-07-20",
+        "years_active": "2010",
+        "council_district": "2",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "261 DARENIA LN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.56340428685914,
+          38.08719220050671
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "305 LONG BRANCH LN",
+        "current_status": "released",
+        "first_assignment_date": "2010-07-20",
+        "years_active": "2010",
+        "council_district": "2",
+        "neighborhood": "Mcconnell's Trace Nghd Assoc Inc",
+        "geocode_score": 100.0,
+        "matched_address": "305 LONG BRANCH LN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.51038266641031,
+          38.104628634125326
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "2556 MORAY PL",
+        "current_status": "released",
+        "first_assignment_date": "2010-07-20",
+        "years_active": "2010",
+        "council_district": "2",
+        "neighborhood": "Coventry Homeowners Association",
+        "geocode_score": 100.0,
+        "matched_address": "2556 MORAY PL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.52875341749693,
+          38.104810467123485
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "1448 DAY LILY DR",
+        "current_status": "released",
+        "first_assignment_date": "2010-07-20",
+        "years_active": "2010",
+        "council_district": "2",
+        "neighborhood": "Garden Meadows HOA",
+        "geocode_score": 100.0,
+        "matched_address": "1448 DAY LILY DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.54468545859824,
+          37.967693653764925
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "3960 WINTHROP DR",
+        "current_status": "released",
+        "first_assignment_date": "2010-07-20",
+        "years_active": "2010",
+        "council_district": "9",
+        "neighborhood": "Sunny Slope Farms HOA",
+        "geocode_score": 100.0,
+        "matched_address": "3960 WINTHROP DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.43077829869743,
+          37.98255674747861
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "216 ELLERSLIE PARK BLVD",
+        "current_status": "released",
+        "first_assignment_date": "2010-07-20",
+        "years_active": "2010",
+        "council_district": "7",
+        "neighborhood": "Ellerslie at Delong HOA",
+        "geocode_score": 100.0,
+        "matched_address": "216 ELLERSLIE PARK BLVD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.43096298013234,
+          37.98246398357917
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "220 ELLERSLIE PARK BLVD",
+        "current_status": "released",
+        "first_assignment_date": "2010-07-20",
+        "years_active": "2010",
+        "council_district": "7",
+        "neighborhood": "Ellerslie at Delong HOA",
+        "geocode_score": 100.0,
+        "matched_address": "220 ELLERSLIE PARK BLVD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.56186294461341,
+          37.98402620404159
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "3824 PINE RIDGE WAY",
+        "current_status": "released",
+        "first_assignment_date": "2010-07-20",
+        "years_active": "2010",
+        "council_district": "9",
+        "neighborhood": "Homeowners of Pinecrest Townhomes",
+        "geocode_score": 100.0,
+        "matched_address": "3824 PINE RIDGE WAY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.56169601222162,
+          37.98433129427968
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "3814 PINE RIDGE WAY",
+        "current_status": "active",
+        "first_assignment_date": "2010-07-20",
+        "years_active": "2010",
+        "council_district": "9",
+        "neighborhood": "Homeowners of Pinecrest Townhomes",
+        "geocode_score": 100.0,
+        "matched_address": "3814 PINE RIDGE WAY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5336009997262,
+          38.095516428836206
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "636 ESTRELLA DR",
+        "current_status": "released",
+        "first_assignment_date": "2010-07-20",
+        "years_active": "2010",
+        "council_district": "2",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "636 ESTRELLA DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.52226153042437,
+          38.00142144117102
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "179 REGENCY POINT PATH",
+        "current_status": "released",
+        "first_assignment_date": "2010-07-20",
+        "years_active": "2010",
+        "council_district": "10",
+        "neighborhood": "Deerfield Comm Assoc Inc",
+        "geocode_score": 100.0,
+        "matched_address": "179 REGENCY POINT PATH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.522152948239,
+          38.002053330050025
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "237 REGENCY POINT PATH",
+        "current_status": "released",
+        "first_assignment_date": "2010-07-20",
+        "years_active": "2010",
+        "council_district": "10",
+        "neighborhood": "Deerfield Comm Assoc Inc",
+        "geocode_score": 100.0,
+        "matched_address": "237 REGENCY POINT PATH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.51917210784396,
+          38.068057468146826
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "1470 TOWNLEY DR",
+        "current_status": "released",
+        "first_assignment_date": "2010-07-20",
+        "years_active": "2010",
+        "council_district": "11",
+        "neighborhood": "Meadowthorpe Nghd Assoc",
+        "geocode_score": 100.0,
+        "matched_address": "1470 TOWNLEY DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5218921628201,
+          38.028516480525845
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "471 BOB O LINK DR",
+        "current_status": "released",
+        "first_assignment_date": "2010-07-20",
+        "years_active": "2010",
+        "council_district": "10",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "471 BOB O LINK DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.46593608666322,
+          38.03567626852151
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "512 HENRY CLAY BLVD",
+        "current_status": "released",
+        "first_assignment_date": "2010-07-20",
+        "years_active": "2010",
+        "council_district": "5",
+        "neighborhood": "Liberty Area Nghd Assoc",
+        "geocode_score": 100.0,
+        "matched_address": "512 HENRY CLAY BLVD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.47724386839259,
+          38.033250666736656
+        ]
+      },
+      "properties": {
+        "entity": "KY LIEN HOLDINGS",
+        "property_address": "177 LINCOLN AVE",
+        "current_status": "released",
+        "first_assignment_date": "2010-07-20",
+        "years_active": "2010",
+        "council_district": "5",
+        "neighborhood": "Kenwick Nghd Assoc",
+        "geocode_score": 100.0,
+        "matched_address": "177 LINCOLN AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.48023190300476,
+          37.958361382739035
+        ]
+      },
+      "properties": {
+        "entity": "FIVE FOUR LEAN",
+        "property_address": "4828 CORAL CREEK CIR",
+        "current_status": "unknown",
+        "first_assignment_date": "2025/07/21",
+        "years_active": "",
+        "council_district": "12",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "4828 CORAL CREEK CIR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.52168124975191,
+          38.00342666016062
+        ]
+      },
+      "properties": {
+        "entity": "FIVE FOUR LEAN",
+        "property_address": "111 DENNIS DR",
+        "current_status": "unknown",
+        "first_assignment_date": "2025/07/21",
+        "years_active": "",
+        "council_district": "10",
+        "neighborhood": "Deerfield Comm Assoc Inc",
+        "geocode_score": 100.0,
+        "matched_address": "111 DENNIS DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.53053740225926,
+          38.00924192600819
+        ]
+      },
+      "properties": {
+        "entity": "FIVE FOUR LEAN",
+        "property_address": "273 HILL N DALE RD",
+        "current_status": "unknown",
+        "first_assignment_date": "2025/07/21",
+        "years_active": "",
+        "council_district": "10",
+        "neighborhood": "Hill N Dale Nghd Assoc",
+        "geocode_score": 100.0,
+        "matched_address": "273 HILL N DALE RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.55711384422304,
+          38.084079071654934
+        ]
+      },
+      "properties": {
+        "entity": "FIVE FOUR LEAN",
+        "property_address": "184 BLACK WATER LN",
+        "current_status": "unknown",
+        "first_assignment_date": "2025/07/21",
+        "years_active": "",
+        "council_district": "2",
+        "neighborhood": "Mcconnell's Trace Nghd Assoc Inc",
+        "geocode_score": 100.0,
+        "matched_address": "184 BLACK WATER LN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.46534778186677,
+          38.057163809328785
+        ]
+      },
+      "properties": {
+        "entity": "FIVE FOUR LEAN",
+        "property_address": "1602 OAK HILL DR",
+        "current_status": "unknown",
+        "first_assignment_date": "2025/07/21",
+        "years_active": "",
+        "council_district": "1",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "1602 OAK HILL DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5167583355666,
+          38.05893818712491
+        ]
+      },
+      "properties": {
+        "entity": "FIVE FOUR LEAN",
+        "property_address": "129 HENTON RD",
+        "current_status": "unknown",
+        "first_assignment_date": "2025/07/21",
+        "years_active": "",
+        "council_district": "11",
+        "neighborhood": "Melrose-Oak Park",
+        "geocode_score": 100.0,
+        "matched_address": "129 HENTON RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.50163750687382,
+          38.06107445038567
+        ]
+      },
+      "properties": {
+        "entity": "FIVE FOUR LEAN",
+        "property_address": "431 GEORGETOWN ST",
+        "current_status": "unknown",
+        "first_assignment_date": "2025/07/21",
+        "years_active": "",
+        "council_district": "2",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "431 GEORGETOWN ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.51583022311114,
+          38.03207821803064
+        ]
+      },
+      "properties": {
+        "entity": "FIVE FOUR LEAN",
+        "property_address": "121 AMERICAN AVE",
+        "current_status": "unknown",
+        "first_assignment_date": "2025/07/21",
+        "years_active": "",
+        "council_district": "10",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "121 AMERICAN AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4809025573958,
+          38.049213363915456
+        ]
+      },
+      "properties": {
+        "entity": "FIVE FOUR LEAN",
+        "property_address": "411 E SIXTH ST",
+        "current_status": "unknown",
+        "first_assignment_date": "2025/07/21",
+        "years_active": "",
+        "council_district": "1",
+        "neighborhood": "William Wells Brown Neighborhood Assoc",
+        "geocode_score": 100.0,
+        "matched_address": "411 E SIXTH ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5117796897098,
+          38.05179969010307
+        ]
+      },
+      "properties": {
+        "entity": "FIVE FOUR LEAN",
+        "property_address": "259 WILLARD ST",
+        "current_status": "unknown",
+        "first_assignment_date": "2025/07/21",
+        "years_active": "",
+        "council_district": "11",
+        "neighborhood": "Speigle Heights Nghd",
+        "geocode_score": 100.0,
+        "matched_address": "259 WILLARD ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.46692694770671,
+          38.03804727897694
+        ]
+      },
+      "properties": {
+        "entity": "FIVE FOUR LEAN",
+        "property_address": "1112 SPARKS RD",
+        "current_status": "unknown",
+        "first_assignment_date": "2025/07/21",
+        "years_active": "",
+        "council_district": "5",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "1112 SPARKS RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.51731384039006,
+          38.06125243912993
+        ]
+      },
+      "properties": {
+        "entity": "FIVE FOUR LEAN",
+        "property_address": "1110 OLD MAIN ST",
+        "current_status": "unknown",
+        "first_assignment_date": "2025/07/21",
+        "years_active": "",
+        "council_district": "11",
+        "neighborhood": "Melrose-Oak Park",
+        "geocode_score": 100.0,
+        "matched_address": "1110 OLD MAIN ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.45376622435427,
+          38.0929254905417
+        ]
+      },
+      "properties": {
+        "entity": "FIVE FOUR LEAN",
+        "property_address": "2453 PIERSON DR",
+        "current_status": "unknown",
+        "first_assignment_date": "2025/07/21",
+        "years_active": "",
+        "council_district": "1",
+        "neighborhood": "Joyland Neighborhood Association",
+        "geocode_score": 100.0,
+        "matched_address": "2453 PIERSON DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.50605802190883,
+          38.06898075360527
+        ]
+      },
+      "properties": {
+        "entity": "FIVE FOUR LEAN",
+        "property_address": "424 GREENWOOD AVE",
+        "current_status": "unknown",
+        "first_assignment_date": "2025/07/18",
+        "years_active": "",
+        "council_district": "2",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "424 GREENWOOD AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.43090943308643,
+          38.00909761612792
+        ]
+      },
+      "properties": {
+        "entity": "FIVE FOUR LEAN",
+        "property_address": "3031 OLD TODDS RD",
+        "current_status": "unknown",
+        "first_assignment_date": "2025/07/18",
+        "years_active": "",
+        "council_district": "7",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "3031 OLD TODDS RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.50848240266473,
+          37.97259657232771
+        ]
+      },
+      "properties": {
+        "entity": "FIVE FOUR LEAN",
+        "property_address": "644 ATTINGHAM CT",
+        "current_status": "unknown",
+        "first_assignment_date": "2025/07/18",
+        "years_active": "",
+        "council_district": "4",
+        "neighborhood": "Belleau Wood Nghd Assoc.",
+        "geocode_score": 100.0,
+        "matched_address": "644 ATTINGHAM CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.49041812864478,
+          38.04438061530606
+        ]
+      },
+      "properties": {
+        "entity": "FIVE FOUR LEAN",
+        "property_address": "326 CORRAL ST",
+        "current_status": "unknown",
+        "first_assignment_date": "2024/09/23",
+        "years_active": "",
+        "council_district": "1",
+        "neighborhood": "William Wells Brown Neighborhood Assoc",
+        "geocode_score": 100.0,
+        "matched_address": "326 CORRAL ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.34594536504797,
+          37.88534013950227
+        ]
+      },
+      "properties": {
+        "entity": "FIVE FOUR LEAN",
+        "property_address": "8810 BEACH RD",
+        "current_status": "unknown",
+        "first_assignment_date": "2024/09/23",
+        "years_active": "",
+        "council_district": "12",
+        "neighborhood": "Clays Ferry Nghd Assoc",
+        "geocode_score": 100.0,
+        "matched_address": "8810 BEACH RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.49460252780966,
+          38.040993993583335
+        ]
+      },
+      "properties": {
+        "entity": "FIVE FOUR LEAN",
+        "property_address": "312 E HIGH ST",
+        "current_status": "unknown",
+        "first_assignment_date": "2024/09/23",
+        "years_active": "",
+        "council_district": "3",
+        "neighborhood": "Aylesford Place Neighborhood Association",
+        "geocode_score": 100.0,
+        "matched_address": "312 E HIGH ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.47841423732748,
+          37.96864302310261
+        ]
+      },
+      "properties": {
+        "entity": "FIVE FOUR LEAN",
+        "property_address": "3594 NIAGARA DR",
+        "current_status": "unknown",
+        "first_assignment_date": "2024/09/23",
+        "years_active": "",
+        "council_district": "8",
+        "neighborhood": "River Park Nghd Assoc",
+        "geocode_score": 100.0,
+        "matched_address": "3594 NIAGARA DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40313269845647,
+          38.01762006292969
+        ]
+      },
+      "properties": {
+        "entity": "FIVE FOUR LEAN",
+        "property_address": "3081 POLO CLUB BLVD",
+        "current_status": "unknown",
+        "first_assignment_date": "2024/09/23",
+        "years_active": "",
+        "council_district": "12",
+        "neighborhood": "Gleneagles Owners Assoc.",
+        "geocode_score": 100.0,
+        "matched_address": "3081 POLO CLUB BLVD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.50605802190883,
+          38.06898075360527
+        ]
+      },
+      "properties": {
+        "entity": "FIVE FOUR LEAN",
+        "property_address": "424 GREENWOOD AVE",
+        "current_status": "unknown",
+        "first_assignment_date": "2024/09/23",
+        "years_active": "",
+        "council_district": "2",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "424 GREENWOOD AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.54531806355526,
+          38.08503970615484
+        ]
+      },
+      "properties": {
+        "entity": "FIVE FOUR LEAN",
+        "property_address": "205 DARENIA LN",
+        "current_status": "unknown",
+        "first_assignment_date": "2024/09/23",
+        "years_active": "",
+        "council_district": "2",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "205 DARENIA LN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.49002712647756,
+          38.052440066699106
+        ]
+      },
+      "properties": {
+        "entity": "FIVE FOUR LEAN",
+        "property_address": "444 N UPPER ST",
+        "current_status": "unknown",
+        "first_assignment_date": "2024/09/23",
+        "years_active": "",
+        "council_district": "1",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "444 N UPPER ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.50848240266473,
+          37.97259657232771
+        ]
+      },
+      "properties": {
+        "entity": "FIVE FOUR LEAN",
+        "property_address": "644 ATTINGHAM CT",
+        "current_status": "unknown",
+        "first_assignment_date": "2024/09/23",
+        "years_active": "",
+        "council_district": "4",
+        "neighborhood": "Belleau Wood Nghd Assoc.",
+        "geocode_score": 100.0,
+        "matched_address": "644 ATTINGHAM CT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.34811094571751,
+          37.8864779435097
+        ]
+      },
+      "properties": {
+        "entity": "FIVE FOUR LEAN",
+        "property_address": "8731 BEACH RD",
+        "current_status": "unknown",
+        "first_assignment_date": "2023/07/24",
+        "years_active": "",
+        "council_district": "12",
+        "neighborhood": "Clays Ferry Nghd Assoc",
+        "geocode_score": 100.0,
+        "matched_address": "8731 BEACH RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.34594536504797,
+          37.88534013950227
+        ]
+      },
+      "properties": {
+        "entity": "FIVE FOUR LEAN",
+        "property_address": "8810 BEACH RD",
+        "current_status": "unknown",
+        "first_assignment_date": "2023/07/24",
+        "years_active": "",
+        "council_district": "12",
+        "neighborhood": "Clays Ferry Nghd Assoc",
+        "geocode_score": 100.0,
+        "matched_address": "8810 BEACH RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.48197059420231,
+          38.043404673013406
+        ]
+      },
+      "properties": {
+        "entity": "FIVE FOUR LEAN",
+        "property_address": "317 NELSON AVE",
+        "current_status": "unknown",
+        "first_assignment_date": "2023/07/24",
+        "years_active": "",
+        "council_district": "1",
+        "neighborhood": "William Wells Brown Neighborhood Assoc",
+        "geocode_score": 100.0,
+        "matched_address": "317 NELSON AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.43751846710624,
+          37.872408558172204
+        ]
+      },
+      "properties": {
+        "entity": "FIVE FOUR LEAN",
+        "property_address": "8660 TATES CREEK RD",
+        "current_status": "unknown",
+        "first_assignment_date": "2023/07/24",
+        "years_active": "",
+        "council_district": "12",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "8660 TATES CREEK RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.48387559074,
+          38.04664404255689
+        ]
+      },
+      "properties": {
+        "entity": "FIVE FOUR LEAN",
+        "property_address": "438 HAWKINS AVE",
+        "current_status": "unknown",
+        "first_assignment_date": "2023/07/24",
+        "years_active": "",
+        "council_district": "1",
+        "neighborhood": "William Wells Brown Neighborhood Assoc",
+        "geocode_score": 100.0,
+        "matched_address": "438 HAWKINS AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.47910051145423,
+          38.09133487646744
+        ]
+      },
+      "properties": {
+        "entity": "FIVE FOUR LEAN",
+        "property_address": "1053 PENNEBAKER DR",
+        "current_status": "unknown",
+        "first_assignment_date": "2023/07/24",
+        "years_active": "",
+        "council_district": "1",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "1053 PENNEBAKER DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.53640275934784,
+          38.05534183253844
+        ]
+      },
+      "properties": {
+        "entity": "FIVE FOUR LEAN",
+        "property_address": "1887 DUNKIRK DR",
+        "current_status": "unknown",
+        "first_assignment_date": "2023/07/24",
+        "years_active": "",
+        "council_district": "11",
+        "neighborhood": "Cardinal Valley Nghd Assoc",
+        "geocode_score": 100.0,
+        "matched_address": "1887 DUNKIRK DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.51545097824253,
+          38.03411723012383
+        ]
+      },
+      "properties": {
+        "entity": "FIVE FOUR LEAN",
+        "property_address": "1100 FERN AVE",
+        "current_status": "unknown",
+        "first_assignment_date": "2023/07/24",
+        "years_active": "",
+        "council_district": "10",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "1100 FERN AVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.50126987364891,
+          38.0218820758205
+        ]
+      },
+      "properties": {
+        "entity": "FIVE FOUR LEAN",
+        "property_address": "600 MONTCLAIR DR",
+        "current_status": "unknown",
+        "first_assignment_date": "2023/07/24",
+        "years_active": "",
+        "council_district": "3",
+        "neighborhood": "Neighbors of Montclair",
+        "geocode_score": 100.0,
+        "matched_address": "600 MONTCLAIR DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.34708813623625,
+          37.88671728412332
+        ]
+      },
+      "properties": {
+        "entity": "FIVE FOUR LEAN",
+        "property_address": "8730 WILLIAMS LN",
+        "current_status": "unknown",
+        "first_assignment_date": "2023/07/24",
+        "years_active": "",
+        "council_district": "12",
+        "neighborhood": "Clays Ferry Nghd Assoc",
+        "geocode_score": 100.0,
+        "matched_address": "8730 WILLIAMS LN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.43090943308643,
+          38.00909761612792
+        ]
+      },
+      "properties": {
+        "entity": "FIVE FOUR LEAN",
+        "property_address": "3031 OLD TODDS RD",
+        "current_status": "unknown",
+        "first_assignment_date": "2023/07/24",
+        "years_active": "",
+        "council_district": "7",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "3031 OLD TODDS RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3389525536099,
+          37.88899775655003
+        ]
+      },
+      "properties": {
+        "entity": "FIVE FOUR LEAN",
+        "property_address": "9092 OLD RICHMOND RD",
+        "current_status": "unknown",
+        "first_assignment_date": "2023/07/24",
+        "years_active": "",
+        "council_district": "12",
+        "neighborhood": "Clays Ferry Nghd Assoc",
+        "geocode_score": 100.0,
+        "matched_address": "9092 OLD RICHMOND RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.45165669703607,
+          38.078586087865
+        ]
+      },
+      "properties": {
+        "entity": "FIVE FOUR LEAN",
+        "property_address": "2275 N BROADWAY",
+        "current_status": "unknown",
+        "first_assignment_date": "2023/07/24",
+        "years_active": "",
+        "council_district": "6",
+        "neighborhood": "Joyland Neighborhood Association",
+        "geocode_score": 100.0,
+        "matched_address": "2275 N BROADWAY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.51639153154068,
+          38.05883109850184
+        ]
+      },
+      "properties": {
+        "entity": "FIVE FOUR LEAN",
+        "property_address": "130 HENTON RD",
+        "current_status": "unknown",
+        "first_assignment_date": "2023/07/24",
+        "years_active": "",
+        "council_district": "11",
+        "neighborhood": "Melrose-Oak Park",
+        "geocode_score": 100.0,
+        "matched_address": "130 HENTON RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4818256165965,
+          38.04954054141298
+        ]
+      },
+      "properties": {
+        "entity": "PURCHASE AREA LIEN",
+        "property_address": "318 E SIXTH ST",
+        "current_status": "unknown",
+        "first_assignment_date": "2023/07/24",
+        "years_active": "",
+        "council_district": "1",
+        "neighborhood": "William Wells Brown Neighborhood Assoc",
+        "geocode_score": 100.0,
+        "matched_address": "318 E SIXTH ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.48098197726748,
+          38.090862902126005
+        ]
+      },
+      "properties": {
+        "entity": "PURCHASE AREA LIEN",
+        "property_address": "1732 COSTIGAN DR",
+        "current_status": "unknown",
+        "first_assignment_date": "2023/07/24",
+        "years_active": "",
+        "council_district": "1",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "1732 COSTIGAN DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3464543196208,
+          37.885601823909546
+        ]
+      },
+      "properties": {
+        "entity": "PURCHASE AREA LIEN",
+        "property_address": "8784 BEACH RD",
+        "current_status": "unknown",
+        "first_assignment_date": "2023/07/24",
+        "years_active": "",
+        "council_district": "12",
+        "neighborhood": "Clays Ferry Nghd Assoc",
+        "geocode_score": 100.0,
+        "matched_address": "8784 BEACH RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.47050138118706,
+          38.04324065226278
+        ]
+      },
+      "properties": {
+        "entity": "PURCHASE AREA LIEN",
+        "property_address": "837 E SEVENTH ST",
+        "current_status": "unknown",
+        "first_assignment_date": "2023/07/24",
+        "years_active": "",
+        "council_district": "1",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "837 E SEVENTH ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.48295774728733,
+          38.07617792391949
+        ]
+      },
+      "properties": {
+        "entity": "PURCHASE AREA LIEN",
+        "property_address": "1595 GRANT DR",
+        "current_status": "unknown",
+        "first_assignment_date": "2023/07/24",
+        "years_active": "",
+        "council_district": "1",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "1595 GRANT DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.37767379425104,
+          38.1894262257028
+        ]
+      },
+      "properties": {
+        "entity": "PURCHASE AREA LIEN",
+        "property_address": "2292 JIMTOWN LN",
+        "current_status": "unknown",
+        "first_assignment_date": "2023/07/24",
+        "years_active": "",
+        "council_district": "12",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "2292 JIMTOWN LN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.55820962315813,
+          38.04815001913673
+        ]
+      },
+      "properties": {
+        "entity": "PURCHASE AREA LIEN",
+        "property_address": "2400 PARTERRE PL",
+        "current_status": "unknown",
+        "first_assignment_date": "2023/07/24",
+        "years_active": "",
+        "council_district": "11",
+        "neighborhood": "Calumet Area Nghd Assoc",
+        "geocode_score": 100.0,
+        "matched_address": "2400 PARTERRE PL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6267404777985,
+          38.04119585621943
+        ]
+      },
+      "properties": {
+        "entity": "PURCHASE AREA LIEN",
+        "property_address": "5023 OLD VERSAILLES RD",
+        "current_status": "unknown",
+        "first_assignment_date": "2023/07/24",
+        "years_active": "",
+        "council_district": "12",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "5023 OLD VERSAILLES RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.55607631708831,
+          38.050977938512744
+        ]
+      },
+      "properties": {
+        "entity": "PURCHASE AREA LIEN",
+        "property_address": "1292 CHERBOURG RD",
+        "current_status": "unknown",
+        "first_assignment_date": "2023/07/24",
+        "years_active": "",
+        "council_district": "11",
+        "neighborhood": "Calumet Area Nghd Assoc",
+        "geocode_score": 100.0,
+        "matched_address": "1292 CHERBOURG RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.48924031673133,
+          38.06016759803455
+        ]
+      },
+      "properties": {
+        "entity": "PURCHASE AREA LIEN",
+        "property_address": "455 DELCAMP DR",
+        "current_status": "unknown",
+        "first_assignment_date": "2023/07/24",
+        "years_active": "",
+        "council_district": "1",
+        "neighborhood": "Northside Nghd Assoc",
+        "geocode_score": 100.0,
+        "matched_address": "455 DELCAMP DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.55729225886262,
+          38.08314216790671
+        ]
+      },
+      "properties": {
+        "entity": "PURCHASE AREA LIEN",
+        "property_address": "209 OLD WOOLEN MILL LN",
+        "current_status": "unknown",
+        "first_assignment_date": "2023/07/24",
+        "years_active": "",
+        "council_district": "2",
+        "neighborhood": "Mcconnell's Trace Nghd Assoc Inc",
+        "geocode_score": 100.0,
+        "matched_address": "209 OLD WOOLEN MILL LN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.47550918994597,
+          38.08757739543108
+        ]
+      },
+      "properties": {
+        "entity": "PURCHASE AREA LIEN",
+        "property_address": "1737 GERALD DR",
+        "current_status": "unknown",
+        "first_assignment_date": "2023/07/24",
+        "years_active": "",
+        "council_district": "1",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "1737 GERALD DR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.45096794755557,
+          38.12784270103918
+        ]
+      },
+      "properties": {
+        "entity": "PURCHASE AREA LIEN",
+        "property_address": "3495 HUFFMAN MILL PIKE",
+        "current_status": "unknown",
+        "first_assignment_date": "2023/07/24",
+        "years_active": "",
+        "council_district": "12",
+        "neighborhood": "",
+        "geocode_score": 100.0,
+        "matched_address": "3495 HUFFMAN MILL PIKE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4476565008157,
+          38.02302607759244
+        ]
+      },
+      "properties": {
+        "entity": "PURCHASE AREA LIEN",
+        "property_address": "615 WILDERNESS RD",
+        "current_status": "unknown",
+        "first_assignment_date": "2023/07/24",
+        "years_active": "",
+        "council_district": "6",
+        "neighborhood": "Liberty Area Nghd Assoc",
+        "geocode_score": 100.0,
+        "matched_address": "615 WILDERNESS RD"
+      }
+    }
+  ]
+}
