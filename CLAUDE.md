@@ -6,10 +6,12 @@ Public-interest data investigation into third-party tax lien certificate purchas
 Goal: Build a forensic, reproducible dataset answering how prevalent, concentrated, and spatially patterned delinquent-tax certificate assignments are in Fayette County — and who holds them.
 
 ## Analytical guardrails (NON-NEGOTIABLE)
-1. **Active vs historical**: An assignment record does NOT prove current ownership. Releases and reassignments must be tracked.
+1. **Active vs historical**: An assignment record does NOT prove current ownership. Releases and reassignments must be tracked. "Unreleased in land records" does NOT mean "currently enforceable" — certificates past the 11-year limitation (KRS 134.546) may be legally stale.
 2. **Entity vs relationship**: "Same contact ecosystem" is NOT "same legal holder." Preserve the distinction with confidence tags.
 3. **System vs harm**: Kentucky's third-party purchaser system is documented law. Separate factual documentation of the system from evidence of its effects.
 4. **Claim provenance**: Every data point must trace to a source document or URL. No inferred facts presented as observed facts.
+5. **Registration ≠ purchase**: DOR registration means eligible to buy; actual purchase is confirmed only by CERT DEL ASSIGN in land records.
+6. **Simple interest**: Kentucky authorizes 12% simple interest per year (KRS 134.125, as amended 2010 Ky. Acts ch. 75). Never use "compound" for certificate interest.
 
 ## Data sources
 - **Fayette Land Records**: fayettedeeds.com/landrecords/ — Instrument types: CERT DEL ASSIGN, REASSIGN CERTIFICATE OF DEL, DEL TAX RELEASE, 3RD PTY TAX REL, IN HOUSE REL

@@ -3,9 +3,12 @@
 
 ## Geocoding Summary
 
-- Total properties in portfolio: **204**
+- Total rows in portfolio: **204** (146 KY Lien Holdings properties + 42 Five Four Lean certs + 16 Purchase Area Lien certs)
 - Successfully geocoded (score ≥ 70): **179** (88%)
 - Not geocoded (no address or low score): 25
+
+*Note: KY Lien Holdings rows are property-level (one row per unique property); Five Four Lean
+and Purchase Area Lien rows are cert-level (properties with multiple certs appear as separate rows).*
 
 ## By Council District
 
@@ -57,4 +60,5 @@
 - Minimum confidence score of 70/100 required for spatial join
 - Council district assignment via point-in-polygon query against LFUCG Council District layer (2020 Census boundaries)
 - Properties with no extractable address or low geocode confidence appear in "Unknown" district
-- "Active" status for Five Four Lean and Purchase Area Lien reflects individual cert-level analysis; 2025 purchases are within the 1-year tolling period
+- "Active" means unreleased in land records — it does not mean currently enforceable (see KRS 134.546 re: 11-year limitation)
+- Counts are row-level: KY Lien Holdings is property-level; FFL and PAL are cert-level

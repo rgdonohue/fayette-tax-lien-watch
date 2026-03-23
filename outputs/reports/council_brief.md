@@ -35,9 +35,12 @@ across tax years 2016–2024. These are bills that remain unresolved in the coun
 | Bills now more than 10× original amount | 469 |
 
 **Key finding:** The majority of delinquent tax bills in Fayette County are for very small
-original debts — most under $50. Kentucky's 12% annual interest rate on purchased certificates
-means these debts compound rapidly. A bill with a $29 original face value that goes unpurchased
-or unresolved for several years can grow to $87–$290+ in total obligation.
+original debts — most under $50. When a certificate is purchased by a third party, Kentucky law
+authorizes 12% simple interest per year (KRS 134.125, as amended by 2010 Ky. Acts ch. 75),
+plus statutory fees — which can grow a small debt materially over time. Separately, unpurchased
+bills accrue county-assessed penalties and fees. The 3.0× median multiplier above reflects
+county-system accumulation across 2–8 years; third-party interest is an additional layer once
+a certificate is sold.
 
 ---
 
@@ -58,8 +61,11 @@ In April 2025, all three were re-registered on the same date (4/28/2025) with ad
 registration numbers (2025-155/156/157) and an identical eligibility date of 6/26/2025.
 
 **2024 DOR registrations:** KY Lien Holdings (2024-147), Five Four Lean (2024-92), and Purchase
-Area Lien Holdings (2024-144) were all registered for the 2023 delinquent tax bill cycle —
-meaning all three entities purchased certificates at the July 2024 Fayette County tax sale.
+Area Lien Holdings (2024-144) were all registered as eligible purchasers for the 2023 delinquent
+tax bill cycle (July 2024 sale). Fayette County land records confirm Five Four Lean recorded
+cert assignments in September 2024; KY Lien Holdings and Purchase Area Lien Holdings do not
+appear as grantees in 2024 land records (they may have purchased in other counties, or not
+purchased that year).
 
 **Note on 2023 purchases:** Five Four Lean and Purchase Area Lien Holdings recorded cert
 assignments in July 2023. The DOR list snapshot available for that year was last updated
@@ -72,18 +78,34 @@ will establish whether these entities were properly registered for the 2023 tax 
 Based on Fayette County Clerk land records (fayettedeeds.com), the combined Ramey-linked
 entity footprint in Fayette County:
 
-| Entity | Cert Assignments | Active (no release) | Released | Years |
-|--------|-----------------|--------------------|---------|----|
-| KY Lien Holdings, LLC | **176** | 5 props (7 certs) | 131 | 2010–2022 |
-| Five Four Lean, LLC | **42** | 16 props (18 certs) | 21 props (23 certs) | 2023–2025 |
-| Purchase Area Lien Holdings LLC | **16** | 3 props (3 certs) | 13 | 2023 |
-| **Combined total** | **234** | **28 active certs** | 167 | **2010–2025** |
+**By unique property:**
+
+| Entity | Properties | Active | Released | Reassigned | Years |
+|--------|-----------|--------|----------|------------|-------|
+| KY Lien Holdings, LLC | 146 | 5 | 131 | 10 | 2010–2022 |
+| Five Four Lean, LLC | 38 | 16 | 21 | 1 | 2023–2025 |
+| Purchase Area Lien Holdings LLC | 16 | 3 | 13 | 0 | 2023 |
+| **Combined** | **200** | **24** | **165** | **11** | **2010–2025** |
+
+**By certificate (some properties have multiple certs):**
+
+| Entity | Cert Assignments | Active Certs | Released Certs | Reassigned |
+|--------|-----------------|-------------|---------------|------------|
+| KY Lien Holdings, LLC | **176** | 7 | 159 | 10 |
+| Five Four Lean, LLC | **42** | 18 | 23 | 1 |
+| Purchase Area Lien Holdings LLC | **16** | 3 | 13 | 0 |
+| **Combined** | **234** | **28** | **195** | **11** |
 
 **Active cert breakdown by cohort:**
-- *Five Four Lean — July 2025 cohort* (7 props, 7 certs): Within the 1-year tolling period; enforcement not yet permitted under KRS 134.452.
-- *Five Four Lean — 2023–2024 cohorts* (9 props, 11 certs): Past tolling period; enforcement legally permitted.
-- *Purchase Area Lien — July 2023 cohort* (3 props, 3 certs): Past tolling period; enforcement legally permitted.
-- *KY Lien Holdings* (5 props, 7 certs): Two properties held since 2010 (15+ years of compounding 12% interest).
+- *Five Four Lean — July 2025 cohort* (7 props, 7 certs): Most recently purchased. Whether the
+  statutory waiting period (KRS 134.546) has elapsed depends on each bill's original delinquency
+  date, not the purchase date.
+- *Five Four Lean — 2023–2024 cohorts* (9 props, 11 certs): Past statutory waiting period.
+- *Purchase Area Lien — July 2023 cohort* (3 props, 3 certs): Past statutory waiting period.
+- *KY Lien Holdings* (5 props, 7 certs): Two properties held since 2010. Note: under
+  KRS 134.546, suits to enforce must be filed within 11 years of the original delinquency date.
+  The 2010-vintage certificates may be approaching or past this limitation — "unreleased in
+  land records" does not necessarily mean currently enforceable.
 
 > **Note on 2023 DOR registration for Five Four Lean / Purchase Area Lien:** Both entities
 > appear in Fayette County land records as grantees in July 2023 (for 2022 delinquent bills).
@@ -103,9 +125,11 @@ entity footprint in Fayette County:
 | Years of Fayette County activity | 2010–2022 |
 
 **Interpretation:** 89.7% of KY Lien Holdings' Fayette County portfolio has been released —
-meaning 131 property owners paid off their original tax debt plus 12% annual interest to KY
-Lien Holdings. Only 5 properties remain with an unreleased certificate, two dating to 2010
-(14+ years of compounding interest obligation).
+meaning 131 property owners paid off their original tax debt plus 12% annual simple interest
+and fees to KY Lien Holdings. Only 5 properties remain with an unreleased certificate, two
+dating to 2010. However, under KRS 134.546 the purchaser must file enforcement action within
+11 years of the original delinquency; the 2010 certificates may be past this statutory
+limitation.
 
 ### 2.4 Active Properties (unreleased as of March 2026)
 
@@ -119,9 +143,11 @@ Lien Holdings. Only 5 properties remain with an unreleased certificate, two dati
 
 ### 2.5 Geographic Distribution of Portfolio
 
-Of 204 total portfolio records (146 KY Lien Holdings properties + 42 Five Four Lean + 16 Purchase
-Area Lien), **179 (88%) were successfully geocoded** against the LFUCG municipal geocoder and
-spatially joined to Fayette County council district boundaries.
+Of 204 total portfolio rows (146 KY Lien Holdings properties + 42 Five Four Lean certs + 16
+Purchase Area Lien certs), **179 (88%) were successfully geocoded** against the LFUCG municipal
+geocoder and spatially joined to Fayette County council district boundaries. *(Note: KY Lien
+Holdings rows are property-level; Five Four Lean and Purchase Area Lien rows are cert-level,
+so some properties appear more than once if they have multiple certs.)*
 
 The combined Ramey-linked portfolio spans all 12 council districts, with the heaviest concentration
 in lower-numbered (inner-city) districts:
@@ -139,8 +165,8 @@ in lower-numbered (inner-city) districts:
 | Unknown/low score | 25 | 1 | 20 | 3 | 2 |
 
 **District 1** — which includes the East End, Castlewood, William Wells Brown, and Oakwood
-neighborhoods — accounts for 39 of 179 geocoded cert rows (21.8%) and has the most active
-unreleased certs (8) of any district.
+neighborhoods — accounts for 39 of 179 geocoded rows (21.8%) and has the most unreleased
+certificates (8 rows) of any district.
 
 **Top neighborhoods by total cert activity** (across all three entities):
 
@@ -168,9 +194,11 @@ entity (Memphis, TN; principal: Hugh Stephens; email: taxsalemgmt@yahoo.com; DOR
 
 Kings Right LLC independently holds **182 certificate acquisitions** in Fayette County's land
 records — 172 direct county purchases plus 10 received from KY Lien Holdings — making it the
-single largest recorded purchaser in our dataset. Portfolio reconstruction shows 6 active
-unreleased certs on 4 properties, including one held since 2011 (412 Glen Arvin Ave, 14+ years)
-and a property with 3 accumulated certs from 2018–2020 (4533 Hartland PKY).
+single largest recorded purchaser in our dataset. Portfolio reconstruction shows 6 unreleased
+certs on 4 properties, including one held since 2011 (412 Glen Arvin Ave) and a property with
+3 accumulated certs from 2018–2020 (4533 Hartland PKY). The 2011 certificate, like KY Lien
+Holdings' 2010 certificates, may be approaching the 11-year statutory limitation under
+KRS 134.546.
 
 ---
 
@@ -191,8 +219,10 @@ parties in our land records dataset (all entity types, all relationships):
 | HBC4 LLC | 10 | Separate operator |
 
 **The three Ramey-linked entities collectively account for 234 certificates** in Fayette County
-land records — roughly 29% of all cert assignments in our scraped dataset of 810 CERT DEL ASSIGN
-instruments.
+land records — roughly 49% of the 474 CERT DEL ASSIGN instruments in our entity-specific
+scraped dataset. *(Note: the dataset covers named-entity queries, not all county CERT DEL ASSIGN
+instruments. The Ramey share of the total county volume cannot be determined without a complete
+county-wide index, which a KORA request would provide.)*
 
 ---
 
@@ -200,21 +230,25 @@ instruments.
 
 ### How the system works
 
-Under KRS 134.128–134.452, counties sell delinquent property tax debts to registered
-third-party purchasers at annual tax certificate sales. The purchaser:
+Under KRS Chapter 134 (specifically KRS 134.125–134.546), counties sell delinquent property
+tax debts to registered third-party purchasers at annual certificate sales. The purchaser:
 1. Pays the delinquent tax amount to the county (owner receives no immediate benefit)
-2. Earns 12% annual interest on the certificate
-3. May enforce the lien by filing a foreclosure action after a 1-year tolling period
-4. May sell/reassign the certificate to another party
+2. Earns 12% simple interest per year on the certificate (KRS 134.125, as amended 2010)
+3. May file suit to enforce the lien after a statutory waiting period measured from the date
+   taxes became delinquent — not from the purchase date (KRS 134.546, 134.490)
+4. Must send pre-suit notice to the property owner before filing enforcement action
+5. May sell/reassign the certificate to another party
+6. Must file suit within 11 years of the original delinquency date (KRS 134.546)
 
 ### What this means for property owners
 
 - The property owner's debt does not disappear — it transfers from the county to a private
   purchaser, often with less flexibility for resolution
-- Interest accrues at 12% annually; a $100 original bill becomes $340+ after 10 years
-- Foreclosure on a $29 tax debt is legally permitted under Kentucky law
-- The 12% return is guaranteed by statute and effectively risk-free for the purchaser if the
-  property has any equity value
+- Interest accrues at 12% simple interest per year; a $100 original bill becomes approximately
+  $220 after 10 years ($100 principal + $120 interest), plus statutory fees
+- Property owners have the right to request an installment payment plan
+- Foreclosure on a small tax debt is legally permitted under Kentucky law
+- Even after a foreclosure sale, property owners retain redemption rights under Kentucky law
 
 ### Scale of the small-debt problem in Fayette County
 
@@ -234,8 +268,10 @@ Of 6,317 current unresolved bills in Fayette County:
 | KY DOR third-party purchaser lists | Annual registered purchasers by county | PDFs downloaded from revenue.ky.gov, years 2016, 2023, 2024, 2025, 2026 |
 
 **Methodology notes:**
-- "Active" status means no DEL TAX RELEASE or similar instrument found in public land records.
-  This does not rule out informal resolutions or instruments not yet indexed by the clerk.
+- "Active" or "unreleased" status means no DEL TAX RELEASE or similar instrument found in
+  public land records. This does **not** mean the certificate is currently enforceable —
+  certificates past the 11-year limitation (KRS 134.546) may be record-active but legally
+  stale. It also does not rule out informal resolutions or instruments not yet indexed.
 - Certificate-to-property matching uses instrument cross-references (book/page numbers).
   165 of 169 release instruments matched directly; 4 matched via fallback cross-reference.
 - Entity name normalization collapses "KY Lien Holdings, LLC" and "KY Lien Holdings LLC"
@@ -250,24 +286,35 @@ Of 6,317 current unresolved bills in Fayette County:
 
 ## Section 6: Open Questions and Recommended Next Steps
 
-1. **KORA Request — Fayette County Clerk:** Full index of CERT DEL ASSIGN, DEL TAX RELEASE,
+1. **KORA Request — KY DOR (Priority):** Complete annual Fayette County purchaser registration
+   lists (not just snapshots) for 2022, 2023, and 2024 to determine whether Five Four Lean LLC
+   and Purchase Area Lien Holdings LLC were properly registered for the years they purchased
+   certificates (July 2023 and July 2024 sales). This is the highest-priority open question
+   because it addresses registration compliance under KRS 134.129. Note: absence from one
+   snapshot does not prove non-registration — a complete list is needed.
+
+2. **KORA Request — Fayette County Clerk:** Full index of CERT DEL ASSIGN, DEL TAX RELEASE,
    and related instrument types 2010–present. Would capture any instruments recorded under
    alternate entity name spellings not captured in entity-specific queries.
 
-2. **KORA Request — KY DOR:** Complete annual Fayette County purchaser registration lists for
-   2022, 2023, and 2024 to determine whether Five Four Lean LLC and Purchase Area Lien Holdings
-   LLC were properly registered for the years they purchased certificates (July 2023 and
-   July 2024 sales). *(Priority — answers a direct legal question about registration compliance.)*
+3. **Fayette Circuit Court docket search:** Determine whether enforcement actions have been
+   filed on the "active" 2010–2011 certificates for both KY Lien Holdings and Kings Right LLC.
+   This would clarify whether old unreleased certificates represent live enforcement exposure
+   or are legally stale under the 11-year limitation (KRS 134.546).
 
-3. **Kings Right LLC — deeper investigation:** Portfolio reconstruction is complete (182 cert
-   acquisitions, 6 active certs on 4 properties). DOR registration status (2016-57, 2023-118)
-   is confirmed. Additional question: whether Kings Right has filed any enforcement actions in
-   Fayette Circuit Court.
+4. **County sale-result records:** Actual certificate sale results by purchaser and year (as
+   distinct from DOR registration lists) would separate eligibility from actual purchasing
+   activity in each county and year.
 
-4. **Five Four Lean LLC and Purchase Area Lien Holdings registration dates:** KY SOS records
+5. **Five Four Lean LLC and Purchase Area Lien Holdings registration dates:** KY SOS records
    confirm formation dates (Five Four Lean: 5/30/2019; Purchase Area Lien: 4/5/2023). The 2023
    DOR purchaser list snapshot predates Purchase Area Lien's formation date — complete DOR
-   records (via KORA #2 above) are needed to confirm proper registration.
+   records (via KORA #1 above) are needed to confirm proper registration.
+
+6. **Appendix: certificate status classification.** Prepare a cleaned appendix distinguishing
+   released, reassigned, unreleased in land records, and apparently outside the 11-year
+   statutory window — to anticipate questions about which "active" certificates actually carry
+   enforcement risk.
 
 ---
 

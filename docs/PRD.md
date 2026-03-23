@@ -2,7 +2,7 @@
 
 ## 1. Problem statement
 
-Kentucky law allows county clerks to sell delinquent property tax certificates to third-party purchasers. Once sold, the original tax debt accrues 12% simple interest plus administrative fees, and the purchaser can pursue enforcement suits after a one-year tolling period. In Fayette County, the County Clerk has noted that approximately 1,500 delinquent bills were under $100 while only ~23 exceeded $1,000 (2024 data, WEKU). This raises the question of whether a small number of purchasers are systematically acquiring large portfolios of small-debt certificates, and what spatial and social patterns result.
+Kentucky law allows county clerks to sell delinquent property tax certificates to third-party purchasers. Once sold, the original tax debt accrues 12% simple interest per year (KRS 134.125) plus administrative fees, and the purchaser can pursue enforcement suits after the statutory waiting period measured from the date taxes became delinquent (KRS 134.546). In Fayette County, the County Clerk has noted that approximately 1,500 delinquent bills were under $100 while only ~23 exceeded $1,000 (2024 data, WEKU). This raises the question of whether a small number of purchasers are systematically acquiring large portfolios of small-debt certificates, and what spatial and social patterns result.
 
 No public dataset currently answers this question. The data exists across multiple government systems but has never been assembled, reconciled, or mapped.
 

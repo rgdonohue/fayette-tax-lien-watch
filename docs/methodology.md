@@ -63,6 +63,10 @@ Each filing is modeled as an event in a per-parcel timeline. The reconstruction 
 4. **No payoff data**: Face amounts on filings do not reflect accrued interest, fees, or partial payments. Actual current debt is not determinable from public records alone.
 5. **Entity inference**: Grouping related entities involves judgment calls. The grouping logic is disclosed but may over- or under-group.
 6. **Survivorship bias**: Only properties with recorded filings are captured. Properties where certificates were purchased but never recorded (if that occurs) would be invisible.
+7. **"Active" ≠ "enforceable"**: An unreleased certificate in land records means no release instrument was found. It does not mean the certificate is currently enforceable. Certificates past the 11-year limitation (KRS 134.546) may be record-active but legally stale. We have no access to Fayette Circuit Court docket data to determine whether enforcement actions were filed.
+8. **Simple interest, not compound**: Kentucky law (KRS 134.125, as amended by 2010 Ky. Acts ch. 75) authorizes 12% simple interest per year on purchased certificates. Growth calculations in this project use simple interest. The bill-level multipliers in Section 1 of the council brief reflect county-system penalties (a separate accumulation mechanism), not purchaser interest.
+9. **DOR registration ≠ purchase**: Appearing on a DOR purchaser registration list means an entity was eligible to buy certificates that year. It does not prove the entity actually purchased in a given county. Land records (CERT DEL ASSIGN instruments) confirm actual purchases.
+10. **Hybrid row units in geocoded data**: The geocoded portfolio (`portfolio_geocoded.csv`) contains property-level rows for KY Lien Holdings but cert-level rows for Five Four Lean and Purchase Area Lien Holdings. District and neighborhood rollups reflect row counts, not uniform property or cert counts.
 
 ## Manual QA Results (2026-03-22)
 
@@ -78,7 +82,10 @@ Each filing is modeled as an event in a per-parcel timeline. The reconstruction 
 
 No duplicate book/page numbers in combined dataset. No records with empty book/page.
 
-**Spot-check QA (3 records verified against source HTML):**
+**Spot-check QA (23 records verified against source HTML):**
+
+3 records manually inspected field-by-field (book/page, date, grantee, grantor, instrument type,
+property description) against the raw HTML source:
 
 | Book/Page | Date | Grantee | Grantor | Address (from HTML) | Match |
 |-----------|------|---------|---------|---------------------|-------|
@@ -86,4 +93,13 @@ No duplicate book/page numbers in combined dataset. No records with empty book/p
 | 808/1 | 2023/07/24 | Five Four Lean LLC | DOUGLAS KAREN | 438 HAWKINS AVE 40508 | ✓ |
 | 808/140 | 2023/07/24 | Purchase Area Lien Holdings LLC | DAUGHERTY JAMES W | 837 E SEVENTH ST 40505 | ✓ |
 
-All verified instrument types, recording dates, party names, and property descriptions match source HTML exactly.
+20 additional records verified by automated book/page + date lookup against source HTML.
+All 20 matched. Sample includes records spanning KY Lien Holdings (6), Kings Right (8),
+Five Four Lean (1), Purchase Area Lien (2), Cardinal Lien Serv (2), and HBC4 (1), across
+CERT DEL ASSIGN (11) and DEL TAX RELEASE (9) instrument types. Full list of verified
+book/page numbers: 1634/727, 624/352, 2110/417, 765/205, 2265/699, 1946/26, 1890/346,
+2316/213, 2273/448, 475/292, 1863/544, 475/616, 624/361, 2290/109, 517/77, 475/529,
+808/143, 475/301, 622/588, 1487/290.
+
+**Total QA coverage: 23 of 926 records (2.5%)** — automated count verification covers
+100% of records at the entity-query level; spot-checks confirm field-level parsing accuracy.
